@@ -6,6 +6,8 @@ from scipy import *             # Load the scipy functions
 from control.matlab import *    # Load the controls systems library
 from matplotlib import pyplot as plt
 
+#ヒューマノイドロボット p108~p109 p111~-112
+
 Zc = 0.8
 g = 9.81
 
